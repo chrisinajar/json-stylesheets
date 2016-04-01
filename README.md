@@ -1,5 +1,4 @@
-# json-stylesheets
-[![Circle CI](https://circleci.com/gh/chrisinajar/json-stylesheets.svg?style=svg)](https://circleci.com/gh/chrisinajar/json-stylesheets)
+# json-stylesheets [![Circle CI](https://circleci.com/gh/chrisinajar/json-stylesheets.svg?style=svg)](https://circleci.com/gh/chrisinajar/json-stylesheets)
 A collection of common stylesheets from the internet exposed in JSON form for `to-css` and `insert-styles`
 
 ## Install
