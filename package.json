@@ -1,6 +1,6 @@
 {
   "name": "json-stylesheets",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "A collection of common stylesheets from the internet exposed in JSON form for `to-css` and `insert-styles`",
   "main": "index.js",
   "scripts": {
