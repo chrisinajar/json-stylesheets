@@ -4,6 +4,7 @@ var test = require('tape');
 test('load and compile all sheets', function (t) {
   testSheet('normalize');
   testSheet('minimal');
+  testSheet('html5reset');
 
   function testSheet (name) {
     t.test(name, function (t) {
